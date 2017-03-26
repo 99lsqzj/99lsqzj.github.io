@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>九九的个人网</title>
+  <title>九九的个人网-王亚坤</title>
   <subtitle>越努力，越幸运</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="99lsqzj.github.io/"/>
-  <updated>2017-03-04T02:58:45.759Z</updated>
+  <updated>2017-03-26T13:17:23.585Z</updated>
   <id>99lsqzj.github.io/</id>
   
   <author>
@@ -16,16 +16,48 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>test</title>
+    <link href="99lsqzj.github.io/2017/03/26/test/"/>
+    <id>99lsqzj.github.io/2017/03/26/test/</id>
+    <published>2017-03-26T10:26:52.000Z</published>
+    <updated>2017-03-26T13:17:23.585Z</updated>
+    
+    <content type="html"><![CDATA[<p>充满鲜花的世界到底在哪里？<br>如果真的存在那我一定会去</p>
+<a id="more"></a>
+<p>向前跑<br>迎着冷眼和骄傲</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;充满鲜花的世界到底在哪里？&lt;br&gt;如果真的存在那我一定会去&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="理想" scheme="99lsqzj.github.io/categories/%E7%90%86%E6%83%B3/"/>
+    
+    
+      <category term="我的梦" scheme="99lsqzj.github.io/tags/%E6%88%91%E7%9A%84%E6%A2%A6/"/>
+    
+  </entry>
+  
+  <entry>
     <title>desc</title>
     <link href="99lsqzj.github.io/2017/03/04/desc/"/>
     <id>99lsqzj.github.io/2017/03/04/desc/</id>
     <published>2017-03-04T02:58:45.000Z</published>
-    <updated>2017-03-04T02:58:45.759Z</updated>
+    <updated>2017-03-26T12:56:17.376Z</updated>
+    
+    <content type="html"><![CDATA[<p>我是一只小小鸟<br><a id="more"></a><br>想要飞呀飞呀飞得高</p>
+]]></content>
     
     <summary type="html">
     
+      &lt;p&gt;我是一只小小鸟&lt;br&gt;
+    
     </summary>
     
+    
+      <category term="mydesc" scheme="99lsqzj.github.io/tags/mydesc/"/>
     
   </entry>
   
